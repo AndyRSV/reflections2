@@ -15,3 +15,7 @@ Branches: Another part of the code that's been using what was coded/developed be
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
    I would be doing it with Dropbox. But it will be difficult to get track of all changes and difficult to see changes and merges
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+   When we pull a branch and we don't want to merge it directly to the local master. If we need to make some corrections in order
+   to push it afterward.
