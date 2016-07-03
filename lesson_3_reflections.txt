@@ -12,3 +12,6 @@ Branches: Another part of the code that's been using what was coded/developed be
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
    Having this copy will allow you to be updated on the most current state/version of the file without impacting the origin/master
    file within the repo.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+   I would be doing it with Dropbox. But it will be difficult to get track of all changes and difficult to see changes and merges
